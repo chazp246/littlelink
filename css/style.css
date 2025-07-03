@@ -32,7 +32,7 @@
 	box-sizing:border-box;
 }
 .container-left p {
-	margin-bottom: 1rem;  				/* 16px space between paragraphs */
+	margin-bottom: 0.5rem;  				/* 16px space between paragraphs */
   }
 .column {
 	position:center;
